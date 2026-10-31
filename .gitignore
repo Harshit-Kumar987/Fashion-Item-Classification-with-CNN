@@ -1,0 +1,12 @@
+# Dataset files
+Dataset/*.csv
+
+# Jupyter files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
+# Virtual environments
+venv/
+tensorflow_env/
